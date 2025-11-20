@@ -1,5 +1,5 @@
 # 可转债高频交易
-> 基于__Kronos__的应用
+> 基于 __Kronos__ 的应用
 
 关于具体Kronos的使用查看 [github](https://github.com/shiyu-coder/Kronos);
 
